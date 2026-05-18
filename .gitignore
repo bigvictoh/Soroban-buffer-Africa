@@ -1,0 +1,26 @@
+# Environment
+.env
+.env.local
+
+# Rust
+backend-rs/target/
+backend-rs/Cargo.lock
+
+# Node.js
+frontend-nextjs/node_modules/
+frontend-nextjs/.next/
+frontend-nextjs/out/
+frontend-nextjs/.turbo/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
