@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "StellarReach Africa",
+  title: "Soroban-Buffar_Africa",
   description: "Empowering African grassroots causes through transparent micro-donations",
 };
 

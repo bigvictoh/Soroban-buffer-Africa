@@ -1,13 +1,13 @@
-# StellarReach-Africa
+# Soroban-Buffar_Africa
 
 **Empowering African grassroots causes through transparent, low-fee XLM micro-donations.**
 
-StellarReach-Africa is a decentralized micro-donation platform built on the Stellar network, designed to connect donors worldwide with verified African NGOs and community causes. By leveraging Stellar's fast, low-cost transactions, we enable transparent giving with minimal overhead.
+Soroban-Buffar_Africa is a decentralized micro-donation platform built on the Stellar network, designed to connect donors worldwide with verified African NGOs and community causes. By leveraging Stellar's fast, low-cost transactions, we enable transparent giving with minimal overhead.
 
 ## Project Structure
 
 ```
-stellarreach-africa/
+soroban-buffar_africa/
 ├── backend-rs/          # Rust backend (Axum + SQLx + Stellar SDK)
 ├── frontend-nextjs/     # Next.js frontend with Stellar wallet integration
 ├── docker-compose.yml   # PostgreSQL and development services

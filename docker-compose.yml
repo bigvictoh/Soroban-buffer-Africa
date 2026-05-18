@@ -3,17 +3,17 @@ version: '3.8'
 services:
   postgres:
     image: postgres:16-alpine
-    container_name: stellarreach-db
+    container_name: soroban-buffar-db
     environment:
-      POSTGRES_USER: stellarreach
-      POSTGRES_PASSWORD: stellarreach_dev
-      POSTGRES_DB: stellarreach_db
+      POSTGRES_USER: soroban_buffar
+      POSTGRES_PASSWORD: soroban_buffar_dev
+      POSTGRES_DB: soroban_buffar_db
     ports:
       - "5432:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U stellarreach"]
+      test: ["CMD-SHELL", "pg_isready -U soroban_buffar"]
       interval: 10s
       timeout: 5s
       retries: 5

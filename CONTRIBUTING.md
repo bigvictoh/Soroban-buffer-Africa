@@ -1,6 +1,6 @@
-# Contributing to StellarReach-Africa
+# Contributing to Soroban-Buffar_Africa
 
-Thank you for your interest in contributing to StellarReach-Africa! We're building a transparent micro-donation platform for African causes, and we welcome developers, designers, and blockchain enthusiasts to help us grow.
+Thank you for your interest in contributing to Soroban-Buffar_Africa! We're building a transparent micro-donation platform for African causes, and we welcome developers, designers, and blockchain enthusiasts to help us grow.
 
 ## Getting Started
 
@@ -15,8 +15,8 @@ Thank you for your interest in contributing to StellarReach-Africa! We're buildi
 
 1. Fork and clone the repository:
    ```bash
-   git clone https://github.com/your-username/stellarreach-africa.git
-   cd stellarreach-africa
+   git clone https://github.com/your-username/soroban-buffar-africa.git
+   cd soroban-buffar-africa
    ```
 
 2. Copy environment configuration:
@@ -56,7 +56,7 @@ For testing blockchain features:
 
 ### Finding Issues to Work On
 
-- Check our [open issues](https://github.com/stellarreach-africa/stellarreach-africa/issues)
+- Check our [open issues](https://github.com/soroban-buffar-africa/soroban-buffar-africa/issues)
 - Look for issues labeled `good first issue` or `help wanted`
 - Comment on an issue to let others know you're working on it
 
@@ -163,7 +163,7 @@ For maintainers adding verified NGOs to the platform:
 
 ## Project Roadmap
 
-Check our [project board](https://github.com/stellarreach-africa/stellarreach-africa/projects) for upcoming features:
+Check our [project board](https://github.com/soroban-buffar-africa/soroban-buffar-africa/projects) for upcoming features:
 
 - Ledger Listener (real-time donation tracking)
 - Donation analytics dashboard
@@ -172,8 +172,8 @@ Check our [project board](https://github.com/stellarreach-africa/stellarreach-af
 
 ## Community
 
-- Join discussions in [GitHub Discussions](https://github.com/stellarreach-africa/stellarreach-africa/discussions)
-- Report bugs via [GitHub Issues](https://github.com/stellarreach-africa/stellarreach-africa/issues)
+- Join discussions in [GitHub Discussions](https://github.com/soroban-buffar-africa/soroban-buffar-africa/discussions)
+- Report bugs via [GitHub Issues](https://github.com/soroban-buffar-africa/soroban-buffar-africa/issues)
 - Follow our progress on social media
 
 ## Code of Conduct
